@@ -1,0 +1,69 @@
+Parent code,code,code name e,code name f,Coefficient,Start date,End date,Status,Heading,Particularity,Modality,MCD,Notes,Acronym e,Acronym f,Reference,DACGeoCode,CRS,TOSSD
+10000,10000,Public Sector Institutions,Institutions du secteur public, , , ,Active,1, , , , , , , , ,1,1
+10000,11000,Donor Government,Gouvernement du donneur, , , ,Active,1, , , , , , , , ,1,1
+11000,11001,Central Government,Gouvernment central, ,2015, ,Active,0, , ,MCD,DCD/DAC/STAT(2015)14/REV1, , ,DCD/DAC/STAT(2015)14/REV1, ,1,1
+11000,11002,Local Government,Gouvernment local, ,2015, ,Active,0, , ,MCD,DCD/DAC/STAT(2015)14/REV1, , ,DCD/DAC/STAT(2015)14/REV1, ,1,1
+11000,11003,Public corporations,Entreprise publique, ,2015, ,Active,0, , ,MCD,DCD/DAC/STAT(2015)14/REV1, , ,DCD/DAC/STAT(2015)14/REV1, ,1,1
+11000,11004,Other public entities in donor country,Autres entité publique dans le pays donneur, ,2015, ,Active,0, , ,MCD,DCD/DAC/STAT(2015)14/REV1, , ,DCD/DAC/STAT(2015)14/REV1, ,1,1
+10000,12000,Recipient Government,Gouvernement du bénéficiaire, , , ,Active,1, , , , , , , , ,1,1
+12000,12001,Central Government,Gouvernment central, ,2015, ,Active,0, , ,MCD,DCD/DAC/STAT(2015)14/REV1, , ,DCD/DAC/STAT(2015)14/REV1, ,1,1
+12000,12002,Local Government,Gouvernment local, ,2015, ,Active,0, , ,MCD,DCD/DAC/STAT(2015)14/REV1, , ,DCD/DAC/STAT(2015)14/REV1, ,1,1
+12000,12003,Public corporations,Entreprise publique, ,2015, ,Active,0, , ,MCD,DCD/DAC/STAT(2015)14/REV1, , ,DCD/DAC/STAT(2015)14/REV1, ,1,1
+12000,12004,Other public entities in recipient country,Autres entité publique dans le pays bénéficiaire, ,2015, ,Active,0, , ,MCD,DCD/DAC/STAT(2015)14/REV1, , ,DCD/DAC/STAT(2015)14/REV1, ,1,1
+10000,13000,Third Country Government (Delegated co-operation),Gouvernement tiers (coopération déléguée), , , ,Active,1, , , , , , , , ,1,1
+20000,20000,Non-Governmental Organisation (NGO) and Civil Society,Organisations non gouvernementales (ONG) et société civile, , , ,Active,1, , , , , , , , ,1,1
+20000,21000,International NGO,ONG internationales, , , ,Active,1, , , , , , , , ,1,1
+20000,22000,Donor country-based NGO,ONG basée dans un pays donneur, , , ,Active,1, , , , , , , , ,1,1
+20000,23000,Developing country-based NGO,ONG basée dans un pays en développement, , , ,Active,1, , , , , , , , ,1,1
+30000,30000,Public-Private Partnerships (PPP) and Networks,Partenariats public-privé (PPP) et réseaux, , , ,Active,1, , , , , , , , ,1,1
+30000,31000,Public-Private Partnerships (PPP),Partenariats public-privé (PPP), , , ,Active,1, , , , , , , , ,1,1
+30000,32000,Networks,Réseaux, , , ,Active,1, , , , , , , , ,1,1
+40000,40000,Multilateral Organisations,Organisations multilatérales, , , ,Active,1, , , , , , , , ,1,1
+40000,41000,"United Nations (UN) agency, fund or commission","Agence, fonds ou commission des Nations Unies (ONU)", , , ,Active,1, , , , , , , , ,1,1
+41000,41100,UN entities (core contributions reportable in full),Entités des Nations Unies (contributions aux budgets reguliers à déclarer dans leur intégralité), ,2020, ,Active,1, , , , , , , , ,1,1
+41000,41200,UN entities (core contributions reportable in TOSSD only),Entités des Nations Unies (contributions de base à déclarer dans TOSSD uniquement), ,2020, ,Active,1, , , , , , , , ,0,1
+41000,41300,Other UN (Core Contributions Reportable in Part),Autres Nations Unies (contributions comptabilisables pour partie), ,2020, ,Active,1, , , , , , , , ,1,1
+41000,41400,UN inter-agency pooled funds,Fonds communs interinstitutions des Nations Unies, ,2020, ,Active,1, , , , , , , , ,1,1
+41000,41500,UN single-agency thematic funds,Fonds thématiques uniques des Nations Unies, ,2020, ,Active,1, , , , , , , , ,1,1
+41000,41600,Existing UN channels not included in Standard I - UN entity- of the UN Data Cube reporting framework,Canaux de l'ONU existants non inclus dans la norme I du cadre de reporting du cube de l'ONU, ,2020, ,Active,1, , , , , , , , ,1,1
+41000,41700,"UN entities, non-core contributions","Entités des Nations Unies, contributions autres que de base ", ,2021, ,Active,1, , , , , , , , ,0,1
+40000,42000,European Union Institutions,Institutions de l'Union européenne, , , ,Active,1, , , , , , , , ,1,1
+40000,43000,International Monetary Fund (IMF),Fonds monétaire international (FMI), , , ,Active,1, , , , , , , , ,1,1
+40000,44000,World Bank Group (WB),Groupe de la Banque mondiale (BM), , , ,Active,1, , , , , , , , ,1,1
+40000,46000,Regional Development Banks,Banques régionales de développement, , , ,Active,1, , , , , , , , ,1,1
+40000,47000,Other multilateral institutions,Autres institutions multilatérales, , , ,Active,1, , , , , , , , ,1,1
+51000,51000,"University, college or other teaching institution, research institute or think-tank","Université, collège ou autre établissement d'enseignement, institut de recherche ou de réflexion", , , ,Active,1, , , , , , , , ,1,1
+60000,60000,Private Sector Institutions,Institutions du secteur privé, ,2016, ,Active,1, , , , , , , , ,1,1
+60000,61000,Private sector in provider country,Secteur privé du pays donneur, ,2016, ,Active,1, , , , , , , , ,1,1
+61000,61001,Banks (deposit taking corporations),Banques (institutions de dépôts), ,2016, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV;Added: DCD/DAC/STAT/RD(2017)4, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV;Added: DCD/DAC/STAT/RD(2017)4, ,1,1
+61000,61003,Investment funds and other collective investment institutions,Fonds d’investissements et autres organismes de placement collectifs, ,2016, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV;Added: DCD/DAC/STAT/RD(2017)4, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV;Added: DCD/DAC/STAT/RD(2017)4, ,1,1
+61000,61004,"Holding companies, trusts and Special Purpose Vehicles","Sociétés holding, fonds fiduciaires et structures de titrisation", ,2016, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV;Added: DCD/DAC/STAT/RD(2017)4, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV;Added: DCD/DAC/STAT/RD(2017)4, ,1,1
+61000,61005,Insurance Corporations,Sociétés d’assurance, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+61000,61006,Pension Funds,Fonds de pension, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+61000,61007,Other financial corporations,Autres sociétés financières, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+61000,61008,Exporters,Exportateurs, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+61000,61009,Other non-financial corporations,Autres sociétés non financières, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+61000,61010,Retail investors,Investisseurs individuels, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+60000,62000,Private sector in recipient country,Secteur privé du pays bénéficiaire, ,2016, ,Active,1, , , , , , , , ,1,1
+62000,62001,Banks (deposit taking corporations except Micro Finance Institutions),Banques (institutions de dépôts hors institutions de microfinancement), ,2016, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV;Added: DCD/DAC/STAT/RD(2017)4, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV;Added: DCD/DAC/STAT/RD(2017)4, ,1,1
+62000,62002,Micro Finance Institutions (deposit and non-deposit),Institutions de microfinancement (collectant ou pas des dépôts), ,2016, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV;Added: DCD/DAC/STAT/RD(2017)4, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV;Added: DCD/DAC/STAT/RD(2017)4, ,1,1
+62000,62003,Investment funds and other collective investment institutions,Fonds d’investissements et autres organismes de placement collectifs, ,2016, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV;Added: DCD/DAC/STAT/RD(2017)4, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV;Added: DCD/DAC/STAT/RD(2017)4, ,1,1
+62000,62004,"Holding companies, trusts and Special Purpose Vehicles","Sociétés holding, fonds fiduciaires et structures de titrisation", ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+62000,62005,Insurance Corporations,Sociétés d’assurance, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+62000,62006,Pension Funds,Fonds de pension, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+62000,62007,Other financial corporations,Autres sociétés financières, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+62000,62008,Importers/Exporters,Importateurs / Exportateurs, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+62000,62009,Other non-financial corporations,Autres sociétés non financières, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+62000,62010,Retail investors,Investisseurs individuels, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+60000,63000,Private sector in third country,Secteur privé d'un pays tiers, ,2016, ,Active,1, , , , , , , , ,1,1
+63000,63001,Banks (deposit taking corporations except Micro Finance Institutions),Banques (institutions de dépôts hors institutions de microfinancement), ,2016, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV;Added: DCD/DAC/STAT/RD(2017)4, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV;Added: DCD/DAC/STAT/RD(2017)4, ,1,1
+63000,63002,Micro Finance Institutions (deposit and non-deposit),Institutions de microfinancement (collectant ou pas des dépôts), ,2016, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV;Added: DCD/DAC/STAT/RD(2017)4, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV;Added: DCD/DAC/STAT/RD(2017)4, ,1,1
+63000,63003,Investment funds and other collective investment institutions,Fonds d’investissements et autres organismes de placement collectifs, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+63000,63004,"Holding companies, trusts and Special Purpose Vehicles","Sociétés holding, fonds fiduciaires et structures de titrisation", ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+63000,63005,Insurance Corporations,Sociétés d’assurance, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+63000,63006,Pension Funds,Fonds de pension, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+63000,63007,Other financial corporations,Autres sociétés financières, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+63000,63008,Exporters,Exportateurs, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+63000,63009,Other non-financial corporations,Autres sociétés non financières, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+63000,63010,Retail investors,Investisseurs individuels, ,2017, ,Active,0, , , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, , ,DCD/DAC/STAT(2018)9/ADD1/FINAL; DCD/DAC/STAT(2016)20/REV, ,1,1
+90000,90000,Other,Autre, ,2016, ,Active,1, , , , , , , , ,1,1
