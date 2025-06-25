@@ -1,0 +1,6 @@
+
+noteql==0.7.4
+aiohttp
+ipywidgets
+noteql-jinjasql
+aiohttp==3.12.9
